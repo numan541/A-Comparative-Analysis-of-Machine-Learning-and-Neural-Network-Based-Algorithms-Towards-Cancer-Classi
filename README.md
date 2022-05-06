@@ -1,4 +1,4 @@
-# FYP_Project
+# ML_Project
 By the emergence of modern technologies in the
 field of medicine, significant volumes of cancer data have been accumulated and easily
 accessible for research purpose to the scientific community. A large volume of tumor
